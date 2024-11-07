@@ -1,0 +1,27 @@
+{
+  "name": "patrickzanattaa",
+  "version": "1.0.0",
+  "description": "Projeto para o desafio de migração para TypeScript e configuração de testes com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Denjizada/patrickzanattaa.git"
+  },
+  "author": "Patrick Zanatta",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "@types/jest": "^27.0.2",
+    "ts-jest": "^27.0.7"
+  },
+  "desafio": {
+    "github": "https://github.com/guilhermeDias13/desafio-1",
+    "link": "https://genuine-unicorn-53302c.netlify.app/"
+  }
+}
